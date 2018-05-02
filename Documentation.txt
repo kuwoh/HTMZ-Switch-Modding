@@ -2,7 +2,7 @@ First note: these switches are smoother than cherry reds that i've been using fo
 Switching the switch springs between HTMZ black and HTMZ brown switches and vice versa
 
 //////////////////////// Start of Switches I Own (that aren't soldered to a board) ///////////////////////////////
-//HTMZ BLACK, BROWN, BLUE
+//HTMZ: BLACK, BROWN, BLUE
 /////////////////////// END OF SECTION ///////////////////////////////////////////////////////////////////////////
 
 ////////////////////// Spring Mods I've done to these switches ///////////////////////////////////////////////////
