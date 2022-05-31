@@ -9,7 +9,6 @@ Switching the switch springs between HTMZ black and HTMZ brown switches and vice
 //HTMZ BLUES
 
 //HTMZ BROWNS
-HTMZ Browns with HTMZ Black springs have a very nice weighty tactile feel it's nice but it's not for me
-
+HTMZ Browns with HTMZ Black springs have a very nice weighty tactile feel
 //HTMZ BLACKS
-HTMZ Blacks with HTMZ Brown switches feel similar to Cherry MX reds but are smoother (not sure if they have a bit more of an actuation force
+HTMZ Blacks with HTMZ Brown switches feel similar to Cherry MX reds but are smoother
